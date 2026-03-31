@@ -21,8 +21,8 @@ OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 OPENROUTER_MODEL = "mistralai/mixtral-8x7b-instruct"
 # Log kanalı
 LOG_CHANNEL_ID = [
-    "1368611539174686781",]
-
+    "XXXXXXXXXXXXXXXXXXX",] # Buraya kendi oluşturduğunuz log kanalın id sini yapıştırıyorsunuz
+ 
 ""
 # Spam koruması
 spam_dict = {}
